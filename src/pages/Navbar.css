@@ -1,0 +1,185 @@
+.container {
+    margin: 0 auto;
+    width: 1280px;
+    height: 832px;
+    border-radius: 17.78px;
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+  }
+  .navbar {
+    width: 285.33px;
+    height: 800px;
+    border-radius: 35.56px;
+    background-color: #2f667f;
+    margin-right: 8.89px;
+    margin-left: 28px;
+    box-shadow: 8.89px 8.89px 12.62px 0px rgba(0, 0, 0, 0.25);
+    position: relative;
+  }
+  .navbarcontent {
+    width: 236.44px;
+    height: 62.22px;
+    margin-left: 10px;
+  
+    border-radius: 15.11px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+  }
+  .navbarcontent span {
+    font-size: 17.78px;
+    font-weight: 400;
+    color: white;
+  }
+  
+  .frame1 {
+    margin-left: 28px;
+    width: 520.27px;
+    height: 833px;
+  }
+  .heading {
+    font-family: Poppins;
+    font-size: 23.11px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    margin-top: 11.56px;
+  }
+  .subheading {
+    font-family: Poppins;
+    font-size: 15.69px;
+    font-weight: 300;
+    line-height: 26.15px;
+    text-align: left;
+    color: #494c55;
+  }
+  .frame2 {
+    width: 391.96px;
+    height: 833px;
+    background-color: #ffffff;
+    margin-left: 27.56px;
+  }
+  .searchbar {
+    margin-top: 28px;
+    margin-bottom: 27.56px;
+    margin-left: 20px;
+    width: 407.95px;
+    height: 34.67px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    
+  
+  }
+  .searchbar input{
+    
+  width: 388.19px;
+  Height:16px
+  }
+  .content {
+    width: 520.27px;
+    height: 347px;
+    margin-top: 40px;
+    border-radius: 20px;
+    opacity: 0px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .button {
+    width: 80px;
+    height: 40px;
+    margin-bottom: 8px;
+    border-radius: 100px;
+    background-color: #539bbb;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  .button2 {
+    width: 170px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: #2f667f;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 28px;
+  }
+  
+  .contenttext {
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+  }
+  .dot {
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  .icon {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 41.01px;
+  }
+  .iconbell {
+    width: 31.67px;
+    height: 31.67px;
+    border-radius: 10.38px;
+  }
+  .iconellipse {
+    width: 31.67px;
+    height: 31.67px;
+    border-radius: 10.38px;
+  }
+  .frame2content {
+    width: 356.4px;
+    height: 726px;
+    margin-left: 5px;
+    margin-right: 5px;
+    /* background-color: aqua; */
+  }
+  .frame2contenttext .heading {
+    font-family: Poppins;
+    font-size: 23.11px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+  }
+  .frame2contenttext .subheading {
+    font-family: Poppins;
+    font-size: 15.69px;
+    font-weight: 300;
+    line-height: 26.15px;
+    color: #494c55;
+  }
+  .background {
+    background-image: url('./Rene1.png');
+    width: 356.4px;
+    height: 193.47px;
+    position: relative;
+  }
+  .navbarlogo {
+    margin-top: 60px;
+    display: flex;
+    margin-left: 10.67px;
+    margin-bottom: 20px;
+    gap: 20px;
+  }
+  .navbarlogo span {
+    font-family: Poppins;
+    font-size: 42.67px;
+    color: #ffffff;
+  }
+  .border {
+    border-bottom: 1px solid white;
+    /* margin-top: 100px; */
+    width: 80%;
+    margin: 100px auto 0px auto;
+  }
+  
